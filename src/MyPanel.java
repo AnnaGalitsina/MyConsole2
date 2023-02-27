@@ -24,6 +24,7 @@ public class MyPanel extends JPanel{
         segment(5);
         segment(6);
         segment(7);
+        int i = 0;
     }
 
     public void segment(int number){
